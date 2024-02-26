@@ -1,6 +1,3 @@
 ﻿namespace ArqMediatr.Core;
 
-public class Class1
-{
-
-}
+public class CoreStartup;
